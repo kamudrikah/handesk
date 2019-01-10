@@ -12,7 +12,7 @@
         </div>
 
         <div style="margin-top:40px">
-            <a href="{{$url}}">View the ticket in Handesk</a>
+            <a href="{{$url}}">View the ticket in Tusyen2u Support</a>
         </div>
 
         <span style="color:white">ticket-id:{{$ticket->id}}.</span>
